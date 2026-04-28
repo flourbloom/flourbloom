@@ -38,6 +38,7 @@ I am pursuing my studies in **Software Engineering**, deeply interested in robot
 | LinkedIn    | [Seavhong Chea](https://www.linkedin.com/in/seavhong-chea-441258177) |
 <!--| Portfolio   | [your-portfolio-site](https://your-portfolio.com) |-->
 | Email | cseavhong22@gmail.com |
+| Email | seavhong.chea.kh@gmail.com |
 
 ---
 
